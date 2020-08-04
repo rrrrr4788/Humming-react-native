@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "748927560864",
+    "firebase_url": "https://arctic-pagoda-231405.firebaseio.com",
+    "project_id": "arctic-pagoda-231405",
+    "storage_bucket": "arctic-pagoda-231405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748927560864:android:6347a216992736f366edc5",
+        "android_client_info": {
+          "package_name": "com.TeamHumming.Humming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748927560864-kkg3f74b72ns2ct9qh82j3uinq9lmaje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY5AljWkr2RKcD3s_cqHI8lr3w2w0Kiwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748927560864-kkg3f74b72ns2ct9qh82j3uinq9lmaje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748927560864:android:02f15f5c334c5ff366edc5",
+        "android_client_info": {
+          "package_name": "com.humming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748927560864-kkg3f74b72ns2ct9qh82j3uinq9lmaje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY5AljWkr2RKcD3s_cqHI8lr3w2w0Kiwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748927560864-kkg3f74b72ns2ct9qh82j3uinq9lmaje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
